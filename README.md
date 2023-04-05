@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trshimpi
-- 👀 I’m interested in lot of tech starting from web dev to devops, blockchain, AIML , computer vision .
+- 👀 I’m interested in variety of tech starting from web dev to devops, blockchain, AIML , computer vision .
 - 🌱 I’m currently learning devops 
 - 💞️ I’m looking to collaborate on projects that includes creativity and inventions
 - 📫 How to reach me : you can mail me @trshimpi25@gmail.com or on linkedin or can call me @+91-9665093759
